@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL入门教程-1-简介
 date: 2020-07-30 16:27:49 +0800
-categories: [PostgreSQL入门教程]
+categories: [pgtutorial]
 tags: []
 ---
 

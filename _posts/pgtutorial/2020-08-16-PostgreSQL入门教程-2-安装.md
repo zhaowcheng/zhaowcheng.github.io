@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL入门教程-2-安装
 date: 2020-08-16 16:54:09 +0800
-categories: [PostgreSQL入门教程]
+categories: [pgtutorial]
 tags: []
 ---
 
