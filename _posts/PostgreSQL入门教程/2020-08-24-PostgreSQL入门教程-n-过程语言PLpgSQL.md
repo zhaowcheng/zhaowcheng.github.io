@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL入门教程-n-过程语言PLpgSQL
 date: 2020-08-24 18:09:03 +0800
-categories: [pgtutorial]
+categories: [PostgreSQL入门教程]
 tags: []
 ---
 
