@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://zhaowcheng.github.io/zhaowcheng.github.io/sitemap.xml
